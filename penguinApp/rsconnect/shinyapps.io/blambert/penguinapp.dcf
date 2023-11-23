@@ -1,0 +1,10 @@
+name: penguinapp
+title:
+username: blambert
+account: blambert
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10614408
+bundleId: 7963052
+url: https://blambert.shinyapps.io/penguinapp/
+version: 1
